@@ -1,3 +1,2 @@
 # POWBoy1.github.io
-This is meant for something in my class, please don't worry about it.
-Please do not try to examine this if you not in my class.
+Please download the Schedule.html file, after that just open the file and your internet explorer will open, This will also popup the project.
