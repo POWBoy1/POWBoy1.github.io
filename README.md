@@ -3,4 +3,4 @@
 
 Go on https://powboy1.github.io/ to check.
 
-NOTE THIS IS A HUB TO BRING YOU TO MY OTHER GITHUB.IO PAGES
+This is a Hub, This hub contains all of my projects from everywhere, Scratch, Github.io, etc...
