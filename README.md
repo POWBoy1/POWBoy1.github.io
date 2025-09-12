@@ -3,7 +3,4 @@
 
 Go on https://powboy1.github.io/ to check.
 
-If that doesn't work download the 405-Schedule.sb3 file, then load it in Scratch. or Just, https://scratch.mit.edu/projects/1215093293/
-
-### Credits ig.
-Made on Scratch then converted to html using https://packager.turbowarp.org/
+NOTE THIS IS A HUB TO BRING YOU TO MY OTHER GITHUB.IO PAGES
