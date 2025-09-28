@@ -2,7 +2,7 @@
 
 ![🌐](https://img.shields.io/badge/Website-Online-green) ![📂](https://img.shields.io/badge/Projects-Hub-blue)
 
-## Welcome to My Project Hub! 🎉
+## Welcome to My Project Portal! 🎉
 
 This hub is a central collection of all my projects. Explore and enjoy my work in one place!  
 
@@ -10,7 +10,7 @@ This hub is a central collection of all my projects. Explore and enjoy my work i
 
 Click the link below to visit the hub and browse my projects:
 
-🌐 [Visit POWBoy1 Hub](https://powboy1.github.io/)  
+🌐 [Visit POWBoy1 Portal](https://powboy1.github.io/)  
 
 ## What You’ll Find
 
