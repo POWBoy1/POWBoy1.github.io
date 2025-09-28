@@ -165,16 +165,17 @@ main {
 .link-button {
   display: inline-flex;
   align-items: center;
-  gap: 6px;
+  gap: 5px;
   text-decoration: none;
   font-size: 0.9rem;
-  padding: 8px 14px;
+  padding: 3.75px 7.5px;
   border-radius: 6px;
   transition: background 0.3s;
-  flex: 0 1 auto;
-  min-width: 80px;
-  max-width: 100px;
+  flex: none;
+  min-width: 70px;
+  max-width: 90px;
   justify-content: center;
+  box-sizing: border-box;
 }
 
 .link-button.primary {
