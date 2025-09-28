@@ -4,7 +4,7 @@
 
 ## Welcome to My Project Portal! 🎉
 
-This hub is a central collection of all my projects. Explore and enjoy my work in one place!  
+This Portal is a central collection of all my projects. Explore and enjoy my work in one place!  
 
 ## How to Use
 
