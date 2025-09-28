@@ -18,10 +18,10 @@
   </div>
   <h1>POWBoy1</h1>
   <p>Welcome to my projects hub. Explore my games and web tools — all built with creativity and fun in mind.</p>
-<div class="scroll-indicator">
-  <span>Scroll down</span>
-  <i class="fa-solid fa-chevron-down"></i>
-</div>
+  <div class="scroll-indicator">
+    <span>Scroll down</span>
+    <i class="fa-solid fa-chevron-down"></i>
+  </div>
 </section>
 
 <main>
@@ -34,9 +34,11 @@
         <div class="project-content">
           <div class="project-header">
             <h2>Games Hub</h2>
-            <span>HTML5 Game Portal</span>
+            <span>HTML5 & Flash Game Portal</span>
           </div>
-          <p class="project-description">A collection of unblocked games, styled like Google Classroom.</p>
+          <p class="project-description">
+            Dive into a growing collection of games! Enjoy a familiar tabbed interface with colorful icons inspired by Google Classroom. Play classics and new releases, with regular updates bringing fresh titles and features. Whether solo or with friends, there's always something new to discover!
+          </p>
           <div class="project-links">
             <a href="https://powboy1.github.io/GamesHub/" class="link-button primary"><i class="fa-solid fa-arrow-up-right-from-square"></i> Visit</a>
             <a href="https://github.com/POWBoy1/GamesHub" class="link-button secondary"><i class="fa-brands fa-github"></i> GitHub</a>
@@ -52,5 +54,12 @@
 </main>
 
 <script src="script.js"></script>
+<script>
+  window.addEventListener("load", () => {
+    requestAnimationFrame(() => {
+      window.scrollTo(0, 0);
+    });
+  });
+</script>
 </body>
 </html>

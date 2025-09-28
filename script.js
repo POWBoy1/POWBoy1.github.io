@@ -48,14 +48,13 @@ function initParticles() {
   particles = [];
   for (let i = 0; i < 50; i++) particles.push(new Particle());
 }
+initParticles();
 
 function animate() {
   ctx.clearRect(0, 0, canvas.width, canvas.height);
   particles.forEach(p => { p.update(); p.draw(); });
   requestAnimationFrame(animate);
 }
-
-initParticles();
 animate();
 
 const avatar = document.querySelector(".avatar-container");
@@ -75,12 +74,17 @@ function handleHeroFade() {
 window.addEventListener("scroll", handleHeroFade);
 
 window.addEventListener("load", () => {
-  window.scrollTo(0,0);
+  // Ensure hero elements and canvas start visible
   avatar.style.opacity = 1;
   heroH1.style.opacity = 1;
   heroP.style.opacity = 1;
   canvas.style.opacity = 1;
   scrollIndicator.style.opacity = 1;
+
+  // Smooth scroll to top after initial render
+  setTimeout(() => {
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  }, 50);
 });
 
 scrollIndicator.addEventListener("click", () => {
